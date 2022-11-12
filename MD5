@@ -1,8 +1,9 @@
-462070b4b9ef80436885a229a5ce9b5e *DESCRIPTION
-e8bff5005823028dfabadfe0abf9d9f7 *NAMESPACE
+fe7f5af1af280e55b6e54d072cdce026 *DESCRIPTION
+453e6cfb59f5e293d85028d916053237 *NAMESPACE
+6449a853c48e5eae5e291aff2ee836c7 *R/addins.R
 c599ac5664ca200b18c3f40ce33a3427 *R/rmdcount.R
 d9e1e69f0a5f2958c99ed1946689cdab *R/rmdwcl.R
-99350f167a7a3c0302e40b6ffa1398ca *README.md
+d026fb489a5c6df220457bb79066e921 *README.md
 af7b41bc23f6a9c9a73c7d2ea1e0255a *inst/rmarkdown/anscombe.Rmd
 a5572284b75d590660e01f6c16c40d90 *inst/rmarkdown/banknote.Rmd
 afa1bf7565424ab91af9602ac1dcaa28 *inst/rmarkdown/bhd.Rmd
@@ -21,7 +22,9 @@ ab6d72e80a0912dcf0f1ecab74c9b2d6 *inst/rmarkdown/index.Rmd
 60c1ce80bcc3323334824ca84b63b512 *inst/rmarkdown/rstudio_pdf.Rmd
 c9ffd7287079c00b0161456fc2cf1c36 *inst/rmarkdown/sas_body.Rmd
 7b953676924c138c6d53456e191bc32c *inst/rmarkdown/titanic.Rmd
+95f477652ab4df1e1f4280e28c564cdb *inst/rstudio/addins.dcf
 51f842b11139b88b0dbcb4e2c2b0f043 *man/rmdcount.Rd
+12dca12bccb6f504279459ebffbbf063 *man/rmdcountAddin.Rd
 7b76132862aa7d2187837a06774e1b82 *man/rmdwcl.Rd
 e0e5734c1c00fae6b7d8d0e142636c2f *tests/testthat.R
 d9f36c119cf3d2e832ef7662bf1f911a *tests/testthat/test-unix-wc.R
